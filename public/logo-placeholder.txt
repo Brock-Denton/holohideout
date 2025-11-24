@@ -1,0 +1,4 @@
+Please add your logo file as public/logo.jpeg
+The logo should be a square image (recommended: 512x512px or larger)
+Supported formats: JPEG, PNG, WebP
+
